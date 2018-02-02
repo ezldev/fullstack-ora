@@ -23,8 +23,8 @@ module.exports = {
   db: {
           rms: {
               'connectString': "XE",
-              'user': 'neel',
-              'password': 'Newpass123',
+              'user': 'us',
+              'password': 'pw',
               'poolMin': 4,
               'poolMax': 30,
               'poolIncrement': 2,
